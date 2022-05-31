@@ -1,0 +1,573 @@
+# depslib dependency file v1.0
+1602620636 source:g:\una\2020\programación i\proyecto_02\cliente.cpp
+	"Cliente.h"
+
+1602620636 g:\una\2020\programación i\proyecto_02\cliente.h
+	"Persona.h"
+
+1602620636 g:\una\2020\programación i\proyecto_02\persona.h
+	<iostream>
+	<sstream>
+
+1602620636 source:g:\una\2020\programación i\proyecto_02\main.cpp
+	<iostream>
+
+1602621244 source:g:\una\2020\programación i\proyecto_02\persona.cpp
+	"Persona.h"
+
+1602622568 g:\una\2020\programación i\proyecto_02\repartidor.h
+	"Persona.h"
+
+1602622568 source:g:\una\2020\programación i\proyecto_02\repartidor.cpp
+	"Repartidor.h"
+
+1602620636 source:g:\una\2020\programación i\proyecto_02\restaurante.cpp
+	"Restaurante.h"
+
+1602620636 g:\una\2020\programación i\proyecto_02\restaurante.h
+	<bits/stdc++.h>
+
+1602624828 source:g:\una\2020\programación i\proyecto_02\lista.cpp
+	"Lista.h"
+
+1602623794 g:\una\2020\programación i\proyecto_02\lista.h
+	"Nodo.h"
+
+1602622568 g:\una\2020\programación i\proyecto_02\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+
+1602620934 source:g:\una\2020\programación i\proyecto_02\nodo.cpp
+	"Nodo.h"
+
+1603778879 source:c:\users\guirs\desktop\proyecto_02\cliente.cpp
+	"Cliente.h"
+
+1603571772 c:\users\guirs\desktop\proyecto_02\cliente.h
+	"Persona.h"
+
+1603757088 c:\users\guirs\desktop\proyecto_02\persona.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1603778659 source:c:\users\guirs\desktop\proyecto_02\lista.cpp
+	"Lista.h"
+
+1603770856 c:\users\guirs\desktop\proyecto_02\lista.h
+	"Nodo.h"
+
+1603570596 c:\users\guirs\desktop\proyecto_02\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+
+1603778634 c:\users\guirs\desktop\proyecto_02\repartidor.h
+	"Persona.h"
+
+1603573069 c:\users\guirs\desktop\proyecto_02\restaurante.h
+	<bits/stdc++.h>
+
+1603500868 source:c:\users\guirs\desktop\proyecto_02\main.cpp
+	"Interfaz.h"
+	<iostream>
+	<iomanip>
+
+1602620934 source:c:\users\guirs\desktop\proyecto_02\nodo.cpp
+	"Nodo.h"
+
+1603777959 source:c:\users\guirs\desktop\proyecto_02\persona.cpp
+	"Persona.h"
+
+1603778952 source:c:\users\guirs\desktop\proyecto_02\repartidor.cpp
+	"Repartidor.h"
+
+1603568931 source:c:\users\guirs\desktop\proyecto_02\restaurante.cpp
+	"Restaurante.h"
+
+1603389839 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\cliente.cpp
+	"Cliente.h"
+
+1603389315 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\cliente.h
+	"Persona.h"
+
+1603386455 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\persona.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1602624996 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\interfaz.cpp
+	"Interfaz.h"
+
+1603390272 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\interfaz.h
+
+1602624828 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\lista.cpp
+	"Lista.h"
+
+1602623794 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\lista.h
+	"Nodo.h"
+
+1603387135 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+
+1603393067 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\repartidor.h
+	"Persona.h"
+
+1603393346 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\restaurante.h
+	<bits/stdc++.h>
+
+1603391613 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Nodo.h"
+	"Lista.h"
+	"Restaurante.h"
+	"Persona.h"
+	<fstream>
+
+1602620934 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\nodo.cpp
+	"Nodo.h"
+
+1602624985 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\pedido.cpp
+	"Pedido.h"
+
+1602624985 c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\pedido.h
+
+1603393550 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\repartidor.cpp
+	"Repartidor.h"
+
+1603386455 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\restaurante.cpp
+	"Restaurante.h"
+
+1603386455 source:c:\users\jonathan\desktop\programacio i\2do proyecto, ii ciclo\proyecto_02\persona.cpp
+	"Persona.h"
+
+1603389840 source:c:\users\lilliam solis\desktop\proyecto_02\cliente.cpp
+	"Cliente.h"
+
+1603389316 c:\users\lilliam solis\desktop\proyecto_02\cliente.h
+	"Persona.h"
+
+1603386456 c:\users\lilliam solis\desktop\proyecto_02\persona.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1602624828 source:c:\users\lilliam solis\desktop\proyecto_02\lista.cpp
+	"Lista.h"
+
+1602623794 c:\users\lilliam solis\desktop\proyecto_02\lista.h
+	"Nodo.h"
+
+1603387136 c:\users\lilliam solis\desktop\proyecto_02\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+
+1603393068 c:\users\lilliam solis\desktop\proyecto_02\repartidor.h
+	"Persona.h"
+
+1603490267 c:\users\lilliam solis\desktop\proyecto_02\restaurante.h
+	<bits/stdc++.h>
+
+1603500866 source:c:\users\lilliam solis\desktop\proyecto_02\main.cpp
+	"Interfaz.h"
+	<iostream>
+	<iomanip>
+
+1602620934 source:c:\users\lilliam solis\desktop\proyecto_02\nodo.cpp
+	"Nodo.h"
+
+1602624986 source:c:\users\lilliam solis\desktop\proyecto_02\pedido.cpp
+	"Pedido.h"
+
+1603487899 c:\users\lilliam solis\desktop\proyecto_02\pedido.h
+	"Restaurante.h"
+	"Repartidor.h"
+
+1603386456 source:c:\users\lilliam solis\desktop\proyecto_02\persona.cpp
+	"Persona.h"
+
+1603393552 source:c:\users\lilliam solis\desktop\proyecto_02\repartidor.cpp
+	"Repartidor.h"
+
+1603490675 source:c:\users\lilliam solis\desktop\proyecto_02\restaurante.cpp
+	"Restaurante.h"
+
+1603500692 source:c:\users\lilliam solis\desktop\proyecto_02\interfaz.cpp
+	"Interfaz.h"
+
+1603489432 c:\users\lilliam solis\desktop\proyecto_02\interfaz.h
+	"Cliente.h"
+	"Nodo.h"
+	"Lista.h"
+	"Restaurante.h"
+	"Repartidor.h"
+	"Persona.h"
+	"Pedido.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1603779194 source:c:\users\guirs\desktop\proyecto_02\interfaz.cpp
+	"Interfaz.h"
+	<locale.h>
+	<stdio.h>
+
+1603756959 c:\users\guirs\desktop\proyecto_02\interfaz.h
+	"Lista.h"
+	"Pedido.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1603571875 c:\users\guirs\desktop\proyecto_02\pedido.h
+	"Restaurante.h"
+	"Repartidor.h"
+
+1602624986 source:c:\users\guirs\desktop\proyecto_02\pedido.cpp
+	"Pedido.h"
+
+1603819837 source:c:\users\guirs\desktop\proyecto_02 - copia\lista.cpp
+	"Lista.h"
+
+1603818873 c:\users\guirs\desktop\proyecto_02 - copia\lista.h
+	"Nodo.h"
+
+1603570596 c:\users\guirs\desktop\proyecto_02 - copia\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+
+1603818603 c:\users\guirs\desktop\proyecto_02 - copia\cliente.h
+	"Persona.h"
+
+1603818603 c:\users\guirs\desktop\proyecto_02 - copia\persona.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1603818603 c:\users\guirs\desktop\proyecto_02 - copia\repartidor.h
+	"Persona.h"
+
+1603819097 c:\users\guirs\desktop\proyecto_02 - copia\restaurante.h
+	<bits/stdc++.h>
+
+1603500868 source:c:\users\guirs\desktop\proyecto_02 - copia\main.cpp
+	"Interfaz.h"
+	<iostream>
+	<iomanip>
+
+1603756959 c:\users\guirs\desktop\proyecto_02 - copia\interfaz.h
+	"Lista.h"
+	"Pedido.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1603571875 c:\users\guirs\desktop\proyecto_02 - copia\pedido.h
+	"Restaurante.h"
+	"Repartidor.h"
+
+1602620934 source:c:\users\guirs\desktop\proyecto_02 - copia\nodo.cpp
+	"Nodo.h"
+
+1602624986 source:c:\users\guirs\desktop\proyecto_02 - copia\pedido.cpp
+	"Pedido.h"
+
+1603819070 source:c:\users\guirs\desktop\proyecto_02 - copia\restaurante.cpp
+	"Restaurante.h"
+
+1603818767 source:c:\users\guirs\desktop\proyecto_02 - copia\cliente.cpp
+	"Cliente.h"
+
+1603819675 source:c:\users\guirs\desktop\proyecto_02 - copia\persona.cpp
+	"Persona.h"
+
+1603819837 source:c:\users\guirs\desktop\proyecto_02 - copia\interfaz.cpp
+	"Interfaz.h"
+	<locale.h>
+	<stdio.h>
+
+1603819675 source:c:\users\guirs\desktop\proyecto_02 - copia\repartidor.cpp
+	"Repartidor.h"
+
+1604079716 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\cliente.cpp
+	"Cliente.h"
+
+1603818604 c:\users\guirs\desktop\proyecto_02 - sin punteros\cliente.h
+	"Persona.h"
+
+1603818604 c:\users\guirs\desktop\proyecto_02 - sin punteros\persona.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1604460014 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\interfaz.cpp
+	"Interfaz.h"
+	<locale.h>
+	<stdio.h>
+
+1604448731 c:\users\guirs\desktop\proyecto_02 - sin punteros\interfaz.h
+	"Lista.h"
+	"Pedido.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1604454431 c:\users\guirs\desktop\proyecto_02 - sin punteros\lista.h
+	"Nodo.h"
+
+1604452837 c:\users\guirs\desktop\proyecto_02 - sin punteros\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+	"Pedido.h"
+
+1604456538 c:\users\guirs\desktop\proyecto_02 - sin punteros\repartidor.h
+	"Persona.h"
+
+1604432817 c:\users\guirs\desktop\proyecto_02 - sin punteros\restaurante.h
+	<bits/stdc++.h>
+
+1604456734 c:\users\guirs\desktop\proyecto_02 - sin punteros\pedido.h
+	"Restaurante.h"
+	"Repartidor.h"
+	"Cliente.h"
+
+1604455148 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\lista.cpp
+	"Lista.h"
+
+1603500868 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\main.cpp
+	"Interfaz.h"
+	<iostream>
+	<iomanip>
+
+1604452837 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\nodo.cpp
+	"Nodo.h"
+
+1604459174 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\pedido.cpp
+	"Pedido.h"
+
+1603819676 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\persona.cpp
+	"Persona.h"
+
+1604459519 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\repartidor.cpp
+	"Repartidor.h"
+
+1604432817 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\restaurante.cpp
+	"Restaurante.h"
+
+1603818767 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\cliente.cpp
+	"Cliente.h"
+
+1603818603 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\cliente.h
+	"Persona.h"
+
+1603818603 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\persona.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1604029706 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\lista.cpp
+	"Lista.h"
+
+1604028472 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\lista.h
+	"Nodo.h"
+
+1604029256 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+	"Pedido.h"
+
+1603818603 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\repartidor.h
+	"Persona.h"
+
+1604028472 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\restaurante.h
+	<bits/stdc++.h>
+
+1603500868 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\main.cpp
+	"Interfaz.h"
+	<iostream>
+	<iomanip>
+
+1603756959 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\interfaz.h
+	"Lista.h"
+	"Pedido.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1604030335 c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\pedido.h
+	"Restaurante.h"
+	"Repartidor.h"
+	"Cliente.h"
+
+1604029707 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\nodo.cpp
+	"Nodo.h"
+
+1603819675 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\persona.cpp
+	"Persona.h"
+
+1603822551 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\repartidor.cpp
+	"Repartidor.h"
+
+1604028472 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\restaurante.cpp
+	"Restaurante.h"
+
+1604025914 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\interfaz.cpp
+	"Interfaz.h"
+	<locale.h>
+	<stdio.h>
+
+1604030399 source:c:\users\lilliam solis\desktop\proyecto_02 - sin punteros\pedido.cpp
+	"Pedido.h"
+
+1604449669 source:c:\users\guirs\desktop\proyecto_02 - sin punteros\quejas.cpp
+	"Quejas.h"
+
+1604449669 c:\users\guirs\desktop\proyecto_02 - sin punteros\quejas.h
+
+1604079716 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\cliente.cpp
+	"Cliente.h"
+
+1603818604 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\cliente.h
+	"Persona.h"
+
+1603818604 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\persona.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1604460014 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\interfaz.cpp
+	"Interfaz.h"
+	<locale.h>
+	<stdio.h>
+
+1604448731 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\interfaz.h
+	"Lista.h"
+	"Pedido.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1604454431 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\lista.h
+	"Nodo.h"
+
+1604452837 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+	"Pedido.h"
+
+1604456538 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\repartidor.h
+	"Persona.h"
+
+1604432817 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\restaurante.h
+	<bits/stdc++.h>
+
+1604456734 c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\pedido.h
+	"Restaurante.h"
+	"Repartidor.h"
+	"Cliente.h"
+
+1604455148 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\lista.cpp
+	"Lista.h"
+
+1603500868 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\main.cpp
+	"Interfaz.h"
+	<iostream>
+	<iomanip>
+
+1604452837 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\nodo.cpp
+	"Nodo.h"
+
+1604459174 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\pedido.cpp
+	"Pedido.h"
+
+1603819676 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\persona.cpp
+	"Persona.h"
+
+1604459519 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\repartidor.cpp
+	"Repartidor.h"
+
+1604432817 source:c:\users\estudiante\desktop\version final girs\proyecto_02 - sin punteros\restaurante.cpp
+	"Restaurante.h"
+
+1604549133 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\cliente.cpp
+	"Cliente.h"
+
+1603818604 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\cliente.h
+	"Persona.h"
+
+1603818604 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\persona.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1604548861 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\interfaz.cpp
+	"Interfaz.h"
+	<locale.h>
+	<stdio.h>
+
+1604448732 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\interfaz.h
+	"Lista.h"
+	"Pedido.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1604545913 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\lista.h
+	"Nodo.h"
+
+1604452838 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\nodo.h
+	"Cliente.h"
+	"Repartidor.h"
+	"Restaurante.h"
+	"Pedido.h"
+
+1604456540 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\repartidor.h
+	"Persona.h"
+
+1604432818 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\restaurante.h
+	<bits/stdc++.h>
+
+1604456736 c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\pedido.h
+	"Restaurante.h"
+	"Repartidor.h"
+	"Cliente.h"
+
+1604548738 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\lista.cpp
+	"Lista.h"
+
+1603500868 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\main.cpp
+	"Interfaz.h"
+	<iostream>
+	<iomanip>
+
+1604452838 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\nodo.cpp
+	"Nodo.h"
+
+1604459176 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\pedido.cpp
+	"Pedido.h"
+
+1603819676 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\persona.cpp
+	"Persona.h"
+
+1604459520 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\repartidor.cpp
+	"Repartidor.h"
+
+1604432818 source:c:\users\joseph\desktop\version final girs\proyecto_02 - sin punteros\restaurante.cpp
+	"Restaurante.h"
+
